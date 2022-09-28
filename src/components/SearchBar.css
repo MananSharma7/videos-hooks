@@ -1,0 +1,23 @@
+.search-bar {
+  background-color: #252525 !important;
+}
+
+.input.input-bar {
+  width: 100%;
+  padding-right: 65px;
+}
+
+.prompt {
+  border-radius: 100px !important;
+}
+
+.input-bar img {
+  width: 40px;
+  margin-right: 15px;
+}
+
+.input-bar input {
+  background-color: #151515 !important;
+  border: none !important;
+  color: #fff !important;
+}
